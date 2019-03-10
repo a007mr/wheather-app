@@ -1,4 +1,4 @@
-# wheather-app - Search the weather and related stuffs by city name
+# Wheather-app - Search the weather and related stuffs by city name
 Weather App using Open Weather Map API - using fetch async and local storage.
 Using Open Weather Map (OWM API)
 
